@@ -45,7 +45,7 @@ namespace ConsoleApp1
 
             //try
             //{
-            //    StreamWriter sw = new StreamWriter(@"F:\sem3\Programowanie_obiektowe\text.txt");
+            //    StreamWriter sw = new StreamWriter(@"path");
             //    sw.WriteLine("Danila Chystikin, ");
             //    sw.WriteLine("Nr albumu: 71424");
             //    sw.Close();
@@ -59,7 +59,7 @@ namespace ConsoleApp1
             //String line;
             //try
             //{
-            //    StreamReader sr = new StreamReader(@"F:\sem3\Programowanie_obiektowe\text.txt");
+            //    StreamReader sr = new StreamReader(@"path");
             //    line = sr.ReadLine();
 
             //    while (line != null)
@@ -77,7 +77,7 @@ namespace ConsoleApp1
             //}
 
             // Zadanie 3
-            //string path = @"D:\1\Sem_3\Programowanie_obiektowe\Laboratorium\Lesson6\";
+            //string path = @"path";
 
             //string[] lines = File.ReadAllLines(path + "pesels.txt");
 
